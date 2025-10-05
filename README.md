@@ -18,3 +18,5 @@ This is a simple yet powerful Currency Converter that allows users to convert on
 2. Select the target currency (the currency you want to convert to).
 3. Enter the amount you wish to convert.
 4. The calculator will automatically display the converted amount using live exchange rates.
+
+<img width="2550" height="1437" alt="image" src="https://github.com/user-attachments/assets/4f988780-c5d9-438a-b5ac-862f75915abf" />
